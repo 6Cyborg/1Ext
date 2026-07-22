@@ -1,5 +1,5 @@
 #!/usr/bin/env fish
-set -lx log_registry 1ExtDropper/Rust
+set -lx log_registry 1Ext/Rust
 
 # Dossier d'installation
 set -l drop (path resolve .drops/rust)
