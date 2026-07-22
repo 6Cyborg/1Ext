@@ -8,4 +8,5 @@ ln -s "$drop/Cybw-Cli/cybw-cli-activate.fish" ~/.config/fish/conf.d/1ext-30-Cybo
 
 # TODO : Cybw-Local-Gologin utilise Chrome qui dépend de libs.
 # trouve les manquantes via `ldd` puis lib/{filesearch,fileget}* les télécharge.
+echo "Cyborg-Web: manual intervention required" >&2
 
